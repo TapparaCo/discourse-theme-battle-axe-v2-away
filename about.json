@@ -2,5 +2,19 @@
   "name": "Battle Axe Away 2.0",
   "about_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-away-v2",
   "license_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-away-v2/blob/master/LICENSE.md",
-  "color_schemes": {}
+  "color_schemes": {
+    "Battle Axe v2 Away": {
+      "primary": "000000",
+      "secondary": "ffffff",
+      "tertiary": "1f69d3",
+      "quaternary": "ff6600",
+      "header_background": "154890",
+      "header_primary": "ffffff",
+      "highlight": "ffff4d",
+      "danger": "b30210",
+      "success": "009900",
+      "love": "ff6600"
+    }
+  }
 }
+
