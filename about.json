@@ -1,9 +1,9 @@
 {
-  "name": "Vieraspaita 2.0",
+  "name": "Battle Axe 2.0 Away",
   "about_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-away-v2",
   "license_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-away-v2/blob/master/LICENSE.md",
   "color_schemes": {
-    "Vieraspaita 2.0": {
+    "Battle Axe 2.0 Away Colors": {
       "primary": "000000",
       "secondary": "ffffff",
       "tertiary": "1f69d3",
