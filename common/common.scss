@@ -19,7 +19,8 @@ body {
 }
 
 // User profile messages list
-.user-stream .item, .user-stream .user-stream-item {
+.user-stream .item,
+.user-stream .user-stream-item {
   background-color: #fdfbf9;
 }
 
@@ -32,7 +33,7 @@ body {
 }
 
 .topic-list .topic-list-item-separator td span {
-  background-color: #FDFBF9;
+  background-color: #fdfbf9;
   color: #ff6600;
   padding: 0px 8px;
   font-size: 0.929em;
