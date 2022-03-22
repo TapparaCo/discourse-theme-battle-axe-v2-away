@@ -27,14 +27,10 @@ body {
 // Last Visit separator re-coloring
 .topic-list .topic-list-item-separator td {
   border-bottom: 1px solid #ff6600;
-  line-height: 0.1em;
-  padding: 0px;
-  text-align: center;
+  border-top: none !important;
 }
 
 .topic-list .topic-list-item-separator td span {
-  background-color: #fdfbf9;
-  color: #ff6600;
-  padding: 0px 8px;
-  font-size: 0.929em;
+  background-color: #fdfbf9 !important;
+  color: #ff6600 !important;
 }
